@@ -118,4 +118,3 @@ This project is licensed under the MIT License.
 ✨ Author
 David Ndiritu Mwaniki
 📧 davidndiritu2000@gmail.com
-🔗 LinkedIn
